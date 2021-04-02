@@ -1,0 +1,15 @@
+{
+  "errorTips": {
+    "error_401": "未授权，请重新登录",
+    "error_403": "权限不足，拒绝访问",
+    "error_404": "请求错误，未找到该资源",
+    "error_409": "请重新登录",
+    "error_500": "加载数据失败!",
+    "error_502": "网络错误",
+    "error_504": "网络超时",
+    "other_error": "发生其他错误!",
+    "systemCatch": "系统异常",
+    "requestTimeOut": "请求超时",
+    "loginTips": "请登录"
+  }
+}

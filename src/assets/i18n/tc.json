@@ -1,0 +1,15 @@
+{
+  "errorTips": {
+    "error_401": "未授權，請重新登錄",
+    "error_403": "權限不足，拒絕訪問",
+    "error_404": "請求錯誤，未找到該資源",
+    "error_409": "請重新登錄",
+    "error_500": "加載數據失敗!",
+    "error_502": "網絡錯誤",
+    "error_504": "網絡超時",
+    "other_error": "發生其他錯誤!",
+    "systemCatch": "系統異常",
+    "requestTimeOut": "請求超時",
+    "loginTips": "請登錄"
+},
+}

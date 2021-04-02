@@ -1,0 +1,15 @@
+{
+  "errorTips": {
+    "error_401": "Unauthorized, please log in again",
+    "error_403": "Insufficient permissions, access denied",
+    "error_404": "Request error, the resource was not found",
+    "error_409": "please login again",
+    "error_500": "Failed to load data!",
+    "error_502": "Network error",
+    "error_504": "Network timeout",
+    "other_error": "Other error occurred!",
+    "systemCatch": "System exception",
+    "requestTimeOut": "Request timed out",
+    "loginTips": "Please Log in"
+  }
+}
